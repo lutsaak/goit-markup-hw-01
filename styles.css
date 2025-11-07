@@ -33,8 +33,9 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2E2F42;
 }
+
 
 .nav-link .contacts-link {
     font-style: normal;
@@ -89,7 +90,8 @@ a {
     color: #fff;
 }
 
-.features-title {
+
+.features-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -113,6 +115,14 @@ a {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.team-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
@@ -140,6 +150,11 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
+}
+
+.portfolio-text {
+    font-weight: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .footer-page{
