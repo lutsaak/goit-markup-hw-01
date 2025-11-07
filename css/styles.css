@@ -36,6 +36,9 @@ a {
     color: #2E2F42;
 }
 
+.nav-link:hover{
+    color: #404bbf;
+}
 
 .nav-link .contacts-link {
     font-style: normal;
@@ -104,8 +107,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-.team,
-.team-item {
+.team {
     background-color: #f4f4fd;
 }
 
@@ -124,11 +126,10 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-}
-
-.team-list {
     background-color: #ffffff;
 }
+
+
 
 .team-text {
     line-height: 1.5;
@@ -153,7 +154,7 @@ a {
 }
 
 .portfolio-text {
-    font-weight: 1.5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
